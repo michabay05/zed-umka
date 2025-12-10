@@ -1,0 +1,12 @@
+fn main() {
+    a := 0
+    b := 1
+    c := a + b;
+
+    for c < 100 {
+        c = a + b;
+        printf("a = %v, b = %v, c = %v\n", a, b, c);
+        a = b;
+        b = c;
+    }
+}

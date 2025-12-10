@@ -1,0 +1,4 @@
+name = "Umka"
+grammar = "umka"
+path_suffixes = ["um"]
+line_comments = ["// "]

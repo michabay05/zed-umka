@@ -1,0 +1,10 @@
+id = "umka"
+name = "Umka"
+version = "0.0.1"
+schema_version = 1
+authors = ["michabay05 <michabay05@gmail.com>"]
+description = "Zed Extension for umka"
+
+[grammars.umka]
+repository = "https://github.com/thacuber2a03/tree-sitter-umka/"
+commit = "f2588765c45d7f5099d53cf34b46883f31407ff2"
