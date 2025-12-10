@@ -4,6 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["michabay05 <michabay05@gmail.com>"]
 description = "Zed Extension for umka"
+repository = "https://github.com/michabay05/zed-umka/"
 
 [grammars.umka]
 repository = "https://github.com/thacuber2a03/tree-sitter-umka/"
