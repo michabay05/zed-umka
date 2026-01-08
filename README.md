@@ -4,9 +4,9 @@
 An extensions that provides syntax highlighting for the Umka scripting language.
 
 ## Installing extension
-> [!NOTE]
-> For now, this extension can only be used as dev extension.
-
+1. Go to the `Extensions` page or hit <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd>.
+2. On the search bar, type `Umka`.
+3. Install the extensions
 
 ## Installing extension locally
 1. Clone this repo on to your system.
